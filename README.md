@@ -3,7 +3,10 @@
 Mémo de commandes utilisées régulièrement ou qui devraient l'être
 
 - [doc-bash](#doc-bash)
+  - [Commandes](#commandes)
   - [Ressources](#ressources)
+
+## Commandes
 
 - installer proprement un `.deb` téléchargé (aptitude) : `apt install ./mon-deb.deb`
 - mettre un script sur le `$PATH` : `export PATH="/path/to/folder/containing/script/:$PATH"`
