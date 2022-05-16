@@ -1,5 +1,7 @@
 # doc-bash
 
+Mémo de commandes utilisées régulièrement ou qui devraient l'être
+
 - [doc-bash](#doc-bash)
   - [Ressources](#ressources)
 
