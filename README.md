@@ -27,4 +27,5 @@ Mémo de commandes utilisées régulièrement ou qui devraient l'être
 
 ## Ressources
 
-- [18 Commands That Will Change The Way You Use Linux Forever](https://www.youtube.com/watch?v=AVXYq8aL47Q&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=48)
+- [18 Commands That Will Change The Way You Use Linux Forever](https://www.youtube.com/watch?v=AVXYq8aL47Q&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=48), vidéo
+- [Linux in a nutshell](https://www.pdfdrive.com/linux-in-a-nutshell-6th-editionpdf-e18844861.html), PDF à télécharger gratuitement
